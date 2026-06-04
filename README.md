@@ -55,3 +55,6 @@
   Notifications:
     - Mute Standard Notifications (toggle)
     - Mute Critical Notifications (toggle)
+
+
+IF UR JUST GONNA LOAD IT AS NORMAL HERE : loadstring(game:HttpGet("https://raw.githubusercontent.com/heliomanager/Universalroblox/refs/heads/main/Main"))()
